@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/C220 Boo.wav-45cdc1923aca89f913d52c9fe74e7698.sample"
+
+[deps]
+
+source_file="res://Assets/C220 Boo.wav"
+dest_files=[ "res://.import/C220 Boo.wav-45cdc1923aca89f913d52c9fe74e7698.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
